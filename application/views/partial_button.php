@@ -1,0 +1,1 @@
+<button class='page_number' data-search='<?= $search; ?>' data-page='<?= $page; ?>'><?= $page; ?></button>
